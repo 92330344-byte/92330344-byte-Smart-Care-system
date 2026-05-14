@@ -1,0 +1,20 @@
+{
+  "PATIENT_UID": {
+    "a1": {
+      "message": "High heart rate detected",
+      "status": "warning",
+      "heartRate": 122,
+      "spo2": 97,
+      "motion": "normal",
+      "time": "2026-04-17T09:30:00.000Z"
+    },
+    "a2": {
+      "message": "Possible fall detected",
+      "status": "emergency",
+      "heartRate": 110,
+      "spo2": 95,
+      "motion": "fall detected",
+      "time": "2026-04-17T09:45:00.000Z"
+    }
+  }
+}

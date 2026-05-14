@@ -1,0 +1,24 @@
+{
+  "doctors": {
+    "doc1": {
+      "fullName": "Dr. Sarah Al-Bukhari",
+      "specialty": "Cardiologist",
+      "imageUrl": ""
+    },
+    "doc2": {
+      "fullName": "Dr. Khaled Al-Mutairi",
+      "specialty": "General Practitioner",
+      "imageUrl": ""
+    },
+    "doc3": {
+      "fullName": "Dr. Lamia Al-Zaabi",
+      "specialty": "Neurologist",
+      "imageUrl": ""
+    },
+    "doc4": {
+      "fullName": "Dr. Yusuf Al-Meena",
+      "specialty": "Pediatrician",
+      "imageUrl": ""
+    }
+  }
+}

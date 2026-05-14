@@ -1,0 +1,19 @@
+{
+  "DOCTOR_UID_PATIENT_UID": {
+    "doctorId": "DOCTOR_UID",
+    "doctorName": "Dr. Sarah",
+    "patientId": "PATIENT_UID",
+    "patientName": "joelle",
+    "updatedAt": "2026-04-17T10:10:00.000Z",
+    "messages": {
+      "msg1": {
+        "senderId": "PATIENT_UID",
+        "senderName": "joelle",
+        "senderRole": "patient",
+        "receiverId": "DOCTOR_UID",
+        "text": "Hello doctor",
+        "createdAt": "2026-04-17T10:10:00.000Z"
+      }
+    }
+  }
+}

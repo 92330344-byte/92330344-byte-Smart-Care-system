@@ -1,0 +1,14 @@
+{
+  "reports": {
+    "PATIENT_UID_HERE": {
+      "r1": {
+        "doctorId": "doc1",
+        "doctorName": "Dr. Sarah Al-Bukhari",
+        "date": "2026-04-16",
+        "summary": "Patient is stable today.",
+        "heartRateNote": "Heart rate is within normal range.",
+        "oxygenNote": "Oxygen level is good."
+      }
+    }
+  }
+}
